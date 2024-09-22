@@ -15,7 +15,7 @@ From the learning outcomes I would say that I achieved the following:
 > * Writing code that executes asynchronously:
 ```
 const array = [];
-array.push('How do I feel? ')
+array.push('How do I feel about backend? ')
 setTimeout(() => array.push('Still not my favourite, but better than I thought'),500)
 array;
 ```
@@ -32,7 +32,7 @@ I have been familiar with node as well as npm previously in a personal project, 
 
 > * Testing of our function.
 
-Testing of our function mostly happened with pair programming, and just seeing if a connection could be established between the server and the openAI. Once that was established, testing between the server and the discord bot was disconnected from me, until everything was tested through the server. 
+Testing of our function mostly happened with pair programming, and just seeing if a connection could be established between the server and the openAI. Once that was established, testing between the server and the discord bot was a disconnected concern from me, until everything was tested through the server. 
 
 > * * Writing tests in the workshops:
 
@@ -100,11 +100,22 @@ I think overall what I learned was still valuable in approaching backend develop
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
 > * Use the fetch method to make HTTP requests and receive responses
+
+I dont think I got to explore this, so I would like to revisit this to understand the process. 
+
 > * Configure the options argument of the fetch method to make GET and POST requests
+
+I would like to revisit this to understand it better. 
+ 
 > * Write tests to mimic the behaviour of a user performing different actions
+
+I would say I developed an understanding of why this is done, and how to do it, but I would like to be stronger in practicing this. 
+ 
 > *  Organise tests using descriptive names and groupings to clarify their purpose and outcomes
 
-I would say I would like to revist a bit more about asynch functions in javascript. Although I would say I have an understanding about the why and the reasonings about using a asynch function, I don't think I felt very comfortable in understanding them as much as I would like. The execute programme felt confusing at times, especially when it was going through a lot of other methods before finally showing us another way to use async functions with the async and await partnership. 
+I would like to revisit this to get a deeper understanding, but I would say I did achieve this in the workshop. 
+
+I would like to revist a bit more about asynch functions in javascript. Although I would say I have an understanding about the why and the reasonings about using a asynch function, I don't think I felt very comfortable in understanding them as much as I would like. The execute programme felt confusing at times, especially when it was going through a lot of other methods before finally showing us another way to use async functions with the async and await partnership. However, I have felt more positively about this week, and have measured my learning against 'Have I learnt something I didnt know before?' as opposed to feeling like I should know more about what is being taught. 
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
