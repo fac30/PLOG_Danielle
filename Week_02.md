@@ -118,6 +118,14 @@ I would like to revisit this to get a deeper understanding, but I would say I di
 I would like to revist a bit more about asynch functions in javascript. Although I would say I have an understanding about the why and the reasonings about using a asynch function, I don't think I felt very comfortable in understanding them as much as I would like. The execute programme felt confusing at times, especially when it was going through a lot of other methods before finally showing us another way to use async functions with the async and await partnership. However, I have felt more positively about this week, and have measured my learning against 'Have I learnt something I didnt know before?' as opposed to feeling like I should know more about what is being taught. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Your progress log is even better than last week's. You covered all the important topics for this week.
+
 > [*Even better if*]
+
+For next week you could try to make it more concise. Use specific examples instead of high-level ideas, supported with short snippets (this will also help you to keep it shorter). In any case, your progress log is looking great.
