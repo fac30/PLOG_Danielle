@@ -8,12 +8,19 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+
+I think this week has been a challenge for me, and as a result I find it hard to quantify how much I have achieved against the learning outcomes. I would say that my understanding of backend has improved, but I am uncertain as to how much I've achieved. 
+
+I would say I have achieved the following: 
+- Understand the benefits of using TypeScript over JavaScript, such as improved code quality, enhanced developer productivity, and better tooling support
+- Learn the basic syntax and features of TypeScript
+
+I think going through the process of Typescript on the execute programme has been surprisingly eye-opening. I think its been able to convey that Typescript uses 'types' to ensure clearer code, as I understand what I need to expect at the end of running a function / programme. For example, assigning the type :string to a variable and knowing that I should expect a string answer. 
+ 
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+I would say I could give a vague explanation of the learning outcomes, however I will be re-visiting it all. On a positive, I would say that being proactive in asking for help and seeking help has really helped in my understanding, and has made me more excited to revise backend. 
+
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
