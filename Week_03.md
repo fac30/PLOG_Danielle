@@ -24,5 +24,13 @@ I would say I could give a vague explanation of the learning outcomes, however I
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
-> [*What went well*]  
+
+Alexander
+
+> [*What went well*]
+
+It is great that even if backend is not something that you enjoy the most, you still understand the basic concepts.
+
 > [*Even better if*]
+
+For next week you could try to make it more concise. Use specific examples instead of high-level ideas, supported with short snippets (this will also help you to keep it shorter). In any case, your progress log is looking great.
