@@ -79,6 +79,14 @@ I would say that I would like to revist this a little better, as I havent felt t
 Overall I would like to revisit all of the learning outcomes as I find it interesting, but just haven't had the time to play around with it. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good examples of your learnings, I like the combination of code snippets and screenshots.
+
 > [*Even better if*]
+
+You could go a bit more technical. I am not sure about your learnings on react
