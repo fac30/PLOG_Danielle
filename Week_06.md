@@ -131,6 +131,11 @@ I think overall I have vastly improved my react skills, but I would like practic
 Moving foward, I would like to also put into practice sql and database knowledge. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+
+Alexander
+
 > [*What went well*]  
-> [*Even better if*]
+
+I love how you mastered the visual aspect of React. Your components looks stunning, and it is amazing that you managed to make them identical to your Figma deign.
+I would like you to get some practice with React Hooks (UseState, UseEffect, Context). Those will give you the true power of React
