@@ -70,6 +70,14 @@ As I am taking on backend this week, I am pleased to be able to discover new lea
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Clear progression through C# fundamentals and practical experience with Swagger API testing. Good initiative in exploring Docker as a stretch goal, with hands-on container management experience.
+
 > [*Even better if*]
+
+Show actual code examples from your Swagger API testing rather than just describing what you did. Your minimal API example is too basic - demonstrate a more complex route with actual functionality.
