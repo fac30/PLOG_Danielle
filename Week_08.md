@@ -49,6 +49,14 @@ I understand what CI/CD does in theory, but would not say I have personal practi
 I think I have a rough overview and idea of dev ops, and have enjoyed learning about it and using the workshops, but I cannot say my comprehension goes into depth. I am comfortable enough to ask questions, but do not find it a priority for me to go further and practice my knowledge. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Strong grasp of TypeScript implementation and React best practices. Good understanding of AWS permissions and successfully created/managed profiles. Previous experience with Cypress testing shows initiative in technical skills development.
+
 > [*Even better if*]
+
+Deepen your understanding of CI/CD beyond theory with hands-on practice. While AWS CDK deployment was successful, take time to understand the underlying principles rather than just following steps. Consider revisiting DevOps concepts with practical applications.
