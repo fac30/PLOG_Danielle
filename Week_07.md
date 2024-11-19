@@ -60,6 +60,13 @@ As we were specific in only calling the name endpoints from our database, it mea
 - I would also like to delve more into useContext. I am a little unsure of how this project may need to implement it, but I would like to build my knowledge both practically and theoretically in it. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Excellent documentation of your debugging process with clear screenshots and explanations. Strong understanding of authentication concepts and great systematic approach to solving the frontend-backend connection issues, particularly with CORS and endpoint debugging.
+
 > [*Even better if*]
+Group your technical challenges by theme. Consider adding brief notes on your problem solving strategy, particularly for the React hooks and useContext implementation you mentioned wanting to improve.
