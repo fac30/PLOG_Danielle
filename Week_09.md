@@ -99,6 +99,14 @@ I would like to, and will aim to complete the C# acreditation with FreeCodeCamp.
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Excellent practical learning of C# basics, with clear code examples demonstrating understanding of syntax differences from JavaScript. Good breakdown of the student grades project showing systematic problem-solving approach.
+
 > [*Even better if*]
+
+Include more specific challenges you encountered while learning C#, and outline a concrete plan for completing the FreeCodeCamp certification with particular areas you want to focus on.
